@@ -1,5 +1,5 @@
 Get to know me - 
-Software Engineering student experienced in building scalable applications and AI-driven solutions. Skilled in C#, .NET, Python, Flutter, and database systems, with a strong focus on backend development and automation.<br><br>Developed systems ranging from task management platforms to machine learning-based fraud detection and FEA optimization using genetic algorithms. Passionate about integrating software engineering with AI/ML to create efficient, real-world solutions.
+Software Engineering Gradutate experienced in building scalable applications and AI-driven solutions. Skilled in C#, .NET, Python, Flutter, and database systems, with a strong focus on backend development and automation.<br><br>Developed systems ranging from task management platforms to machine learning-based fraud detection and FEA optimization using genetic algorithms. Passionate about integrating software engineering with AI/ML to create efficient, real-world solutions.
 
 
 ## 🌐 Socials:
